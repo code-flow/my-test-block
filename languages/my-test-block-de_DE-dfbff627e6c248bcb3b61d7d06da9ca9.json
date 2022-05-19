@@ -1,0 +1,27 @@
+{
+  "translation-revision-date": "2022-05-17 09:39+0200",
+  "generator": "WP-CLI\/2.6.0",
+  "source": "build\/index.js",
+  "domain": "messages",
+  "locale_data": {
+	"messages": {
+	  "": {
+		"domain": "messages",
+		"lang": "de_DE",
+		"plural-forms": "nplurals=2; plural=(n != 1);"
+	  },
+	  "My Test Block \u2013 hello from the editor!": [
+		"Mein Test Block - Hallo vom Editor!"
+	  ],
+	  "My Test Block \u2013 hello from the saved content!": [
+		"Mein Test Block - Hallo!"
+	  ],
+	  "block title\u0004My Test Block": [
+		"Mein Test Block"
+	  ],
+	  "block description\u0004Example block written with ESNext standard and JSX support \u2013 build step required.": [
+		"Beispielblock geschrieben mit ESNext-Standard und JSX-Unterst\u00fctzung - Build-Schritt erforderlich."
+	  ]
+	}
+  }
+}
